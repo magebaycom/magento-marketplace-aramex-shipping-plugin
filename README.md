@@ -14,10 +14,13 @@ Magento Multi-Vendor Aramex Shipping Plugin is an international shipping method 
 	<li>Sellers can enter tracking IDs, buyers can track their orders.</li>
 </ul>
 
-<p><strong>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</strong></p>
+<p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/paypal-marketplace-parallel-express-checkout-payment">PayPal Marketplace Parallel Express Checkout Payment</a></strong></p>
 
-<p><strong><em>- Contact&nbsp;</em><em>us:</em><em>&nbsp;info@magebay.com</em></strong></p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p><strong><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></strong></p>
+<p>Install&nbsp;<a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magebay Magento Multi Vendor Marketplace</a>&nbsp;to be able to use this plugin</p>
 
-<p>&nbsp;</p>
+<p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
+
+<p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
+
